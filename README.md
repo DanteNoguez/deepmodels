@@ -1,2 +1,2 @@
 # modelos
-Papers, modelos, fun stuff.
+Papers, models, fun stuff.
